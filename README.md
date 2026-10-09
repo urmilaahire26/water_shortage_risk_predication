@@ -1,4 +1,3 @@
-# water_shortage_risk_predication
 # Water Shortage Risk Prediction Using Machine Learning
 
 ## Project Overview
